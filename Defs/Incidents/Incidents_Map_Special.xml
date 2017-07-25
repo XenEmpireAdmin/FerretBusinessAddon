@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<IncidentDefs>
+
+
+  <!--=============== OrbitalVisitor =============-->
+
+  <IncidentDef>
+    <defName>FRBTraderArrival</defName>
+    <label>FRB Employment agent</label>
+    <targetType>MapPlayerHome</targetType>
+    <workerClass>FerrexBusiness.IncidentWorker_FRBEmploymentTrader</workerClass>
+    <category>OrbitalVisitor</category>
+    <baseChance>3</baseChance>
+  </IncidentDef>
+
+</IncidentDefs>

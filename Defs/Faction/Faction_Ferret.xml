@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FactionDefs>
+	<FactionDef>
+  <defName>FerrexBizNet</defName>
+		<label>Ferrex Business Network</label>
+		<description>The umbrella corporation that acts as governmental body for the Ferrex.</description>
+		<pawnsPlural>Ferrex Professionals</pawnsPlural>
+		<requiredCountAtGameStart>1</requiredCountAtGameStart>
+		<fixedName>FBN</fixedName>
+		<techLevel>Spacer</techLevel>
+		<backstoryCategory>FerrexBackstory</backstoryCategory>
+		<hidden>true</hidden>
+		<rescueesCanJoin>true</rescueesCanJoin>
+		<autoFlee>false</autoFlee>
+		<hairTags>
+			<li>FerrexHair</li>
+		</hairTags>
+		<apparelStuffFilter>
+			<thingDefs>
+				<li>Hyperweave</li>
+			</thingDefs>
+		</apparelStuffFilter>
+	</FactionDef>
+
+</FactionDefs>

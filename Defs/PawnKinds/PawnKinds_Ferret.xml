@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PawnKindDefs>
+
+ <PawnKindDef Name="FRBBase" Abstract="True">
+    <defaultFactionType>FerrexBizNet</defaultFactionType>
+    <race>Alien_Ferrex</race>
+  	<backstoryCategory>FerrexBackstory</backstoryCategory>
+    <baseRecruitDifficulty>0.60</baseRecruitDifficulty>
+    <apparelAllowHeadwearChance>0</apparelAllowHeadwearChance>
+    <chemicalAddictionChance>0</chemicalAddictionChance>
+    <isFighter>true</isFighter>
+    <invNutrition>3.5</invNutrition>
+    <itemQuality>Normal</itemQuality>
+	  <minGenerationAge>18</minGenerationAge>
+    <maxGenerationAge>50</maxGenerationAge>
+  </PawnKindDef>
+  
+  <PawnKindDef ParentName="FRBBase">
+    <defName>FRBEmployee</defName>
+    <label>Professional</label>
+    <combatPower>135</combatPower>
+    <gearHealthRange>
+      <min>0.5</min>
+      <max>2.3</max>
+    </gearHealthRange>
+    <apparelTags>
+      <li>Outlander</li>
+      <li>Military</li>
+    </apparelTags>
+    <apparelMoney>
+      <min>1000</min>
+      <max>26000</max>
+    </apparelMoney>
+    <weaponMoney>
+      <min>1400</min>
+      <max>28000</max>
+    </weaponMoney>
+    <weaponTags>
+    <li>Gun</li>
+	  <li>AdvancedGun</li>
+    <li>EliteGun</li>
+    </weaponTags>
+    <techHediffsMoney>
+      <min>2000</min>
+      <max>30000</max>
+    </techHediffsMoney>
+    <techHediffsTags>
+      <li>Advanced</li>
+    </techHediffsTags>
+    <techHediffsChance>0.88</techHediffsChance>
+    <inventoryOptions>
+      <skipChance>0.8</skipChance>
+      <subOptionsChooseOne>
+        <li>
+          <thingDef>Silver</thingDef>
+          <countRange>
+            <min>180</min>
+            <max>400</max>
+          </countRange>
+        </li>
+        <li>
+          <thingDef>Medicine</thingDef>
+          <countRange>
+            <min>1</min>
+            <max>2</max>
+          </countRange>
+        </li>
+      </subOptionsChooseOne>
+    </inventoryOptions>
+  </PawnKindDef>
+
+</PawnKindDefs>

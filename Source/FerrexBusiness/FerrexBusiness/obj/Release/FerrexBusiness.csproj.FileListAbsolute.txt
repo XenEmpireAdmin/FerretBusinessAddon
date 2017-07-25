@@ -1,0 +1,13 @@
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\bin\Release\FerrexBusiness.dll
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\bin\Release\FerrexBusiness.pdb
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\bin\Release\AlienRace.dll
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\bin\Release\Assembly-CSharp.dll
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\bin\Release\UnityEngine.dll
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\bin\Release\0Harmony.dll
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\bin\Release\Assembly-CSharp-firstpass.dll
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\bin\Release\NAudio.dll
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\bin\Release\NVorbis.dll
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\bin\Release\UnityEngine.xml
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\obj\Release\FerrexBusiness.csprojResolveAssemblyReference.cache
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\obj\Release\FerrexBusiness.dll
+c:\users\tjx\documents\visual studio 2017\Projects\FerrexBusiness\FerrexBusiness\obj\Release\FerrexBusiness.pdb
